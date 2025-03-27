@@ -1,23 +1,25 @@
-# SkyDo - To-Do App with Weather
+# SkyDo To-Do App
 
-## 📌 Overview
-SkyDo is a simple **To-Do app** that allows users to:
-- Add, edit, and delete tasks
-- Mark tasks as outdoor
-- Fetch and display weather for outdoor tasks
-- Authenticate users using Redux
+This is a simple To-Do App built using Vite and deployed on Vercel.
 
----
+## 🚀 Live Demo  
+Check out the live version here:  
+🔗 [SkyDo To-Do App](https://skydo-to-do-g9gmf8pfl-juhi-vyas-projects.vercel.app)
 
-🛠 Tech Stack
-Frontend: React, Redux, Tailwind CSS
-State Management: Redux Toolkit
-API: OpenWeatherMap API
-Authentication: Redux Auth Slice
+## Features  
+✅ Add, edit, and delete tasks  
+✅ Mark tasks as completed  
+✅ Responsive UI  
 
-## 🚀 Setup & Installation
+## Technologies Used  
+- React (Vite)  
+- Tailwind CSS  
+- Vercel (for Deployment)  
 
-### **1️⃣ Clone the Repository**
+## Installation  
+Clone the project and install dependencies:  
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Juhi-Vyas/SkyDo-To-do-app-/edit/main/README.md)
-cd SkyDo-To-do-app-
+git clone https://github.com/Juhi-Vyas/SkyDo-To-do-app.git  
+cd SkyDo-To-do-app  
+npm install  
+npm run dev  
