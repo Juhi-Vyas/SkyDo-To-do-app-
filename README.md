@@ -9,6 +9,12 @@ SkyDo is a simple **To-Do app** that allows users to:
 
 ---
 
+🛠 Tech Stack
+Frontend: React, Redux, Tailwind CSS
+State Management: Redux Toolkit
+API: OpenWeatherMap API
+Authentication: Redux Auth Slice
+
 ## 🚀 Setup & Installation
 
 ### **1️⃣ Clone the Repository**
